@@ -1,0 +1,256 @@
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Host.exe.config
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Host.exe
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Host.pdb
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Linq.Async.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Collections.Immutable.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Npgsql.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Text.Json.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Memory.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Buffers.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.ValueTuple.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Text.Encodings.Web.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Numerics.Vectors.dll
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.pdb
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll.config
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Linq.Async.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Collections.Immutable.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Npgsql.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Text.Json.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Memory.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Buffers.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.ValueTuple.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Text.Encodings.Web.xml
+D:\Работа\новый сезон\кр2\Китова\Host\bin\Debug\System.Numerics.Vectors.xml
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.csproj.CopyComplete
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.exe
+D:\Работа\новый сезон\кр2\Китова\Host\obj\Debug\Host.pdb
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Host.exe.config
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Host.exe
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Host.pdb
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Npgsql.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Text.Json.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Memory.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Buffers.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.ValueTuple.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.pdb
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll.config
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Npgsql.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Text.Json.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Memory.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Buffers.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.ValueTuple.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vboxuser\source\repos\Китова\Host\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vboxuser\source\repos\Китова\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\Китова\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Китова\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\vboxuser\source\repos\Китова\Host\obj\Debug\Host.exe
+C:\Users\vboxuser\source\repos\Китова\Host\obj\Debug\Host.pdb
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Host.exe.config
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Host.exe
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Host.pdb
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Collections.Immutable.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Npgsql.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Text.Json.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Memory.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Buffers.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.ValueTuple.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Text.Encodings.Web.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Numerics.Vectors.dll
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.pdb
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll.config
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Collections.Immutable.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Npgsql.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Text.Json.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Memory.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Buffers.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.ValueTuple.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Text.Encodings.Web.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\bin\Debug\System.Numerics.Vectors.xml
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.csproj.CopyComplete
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.exe
+D:\Работа\новый сезон\Курсач\Китова\Host\obj\Debug\Host.pdb
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Host.exe.config
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Host.exe
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Host.pdb
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Collections.Immutable.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Npgsql.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Text.Json.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Memory.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Buffers.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.ValueTuple.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.pdb
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\WarehouseAccountingJewelryStoreService.dll.config
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Collections.Immutable.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Npgsql.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Text.Json.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Memory.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Buffers.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.ValueTuple.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\obj\Debug\Host.exe
+C:\Users\elena\Desktop\Курсовая 4 курс\Китова\Host\obj\Debug\Host.pdb
